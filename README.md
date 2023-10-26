@@ -1,3 +1,3 @@
-It's My personal portfolio website.
-Technologies Used - React.Js , Tailwind Css , Three,Js.
+It's My personal portfolio website. <br/>
+Technologies Used - React.Js , Tailwind Css , Three,Js. <br/>
 Deployment Link - 
